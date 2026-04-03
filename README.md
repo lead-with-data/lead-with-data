@@ -1,99 +1,201 @@
-EDUCATION 
-Government College University                            
-Bachelors of Science in Data Science                                                                                                               
-● Concentrations: Data Science and Analytics   
-Faisalabad, Pakistan  
-Oct 2021 -  July 2025  
-● Related Coursework: Computing in Python, Descriptive and Inferential Statistics in R, Machine Learning, Data Analysis, 
-Mathematics, Artificial Intelligence, Data Visualization, Data Structures, Databases, Data warehousing and BI, Data Analysis 
-using SQL.  
-EXPERIENCE  
-Hackathons Participant                                     
-LabLab/Devpost                                                                                                                                                       
-Remote, Worldwide  
-June 2024 – Present  
-● Worked in fast-paced, international teams, coordinating tasks and ensuring collaboration across diverse skill sets. 
-● Practiced clear and concise communication to align teammates quickly and avoid bottlenecks under tight deadlines. 
-● Delivered multiple projects within 24–72 hour sprints, balancing competing priorities and ensuring timely completion. 
-● Strengthened problem-solving resilience by adapting to shifting requirements and constraints in real time. 
-● Contributed to a culture of team synergy, accountability, and constructive feedback, enabling smoother execution under 
-pressure. 
-● Gained experience in global collaboration, working with peers across time zones and cultural contexts. 
-CiP Section Leader                                    
-Stanford University                                                                                                                                                
-Remote, Worldwide    
-March 2025 – May 2025  
-● Lead weekly section classes for undergraduate computer science students.   
-● Guide students through complex problem-solving activities and programming exercises.   
-● Grade assignments and projects with constructive feedback.   
-● Facilitate code reviews to improve students' programming skills.   
-● Explain technical concepts clearly to students with diverse backgrounds.   
-● Develop leadership and mentorship abilities in an academic setting.  
-● Strengthened stakeholder communication and critical thinking by explaining complex technical concepts clearly to students 
-with diverse academic backgrounds. 
-PROJECTS 
-Olist Retail & E-commerce Growth Analytics  
-Skills: Data Modeling, DAX, Power Query, Data Transformation, Dashboard & Visualization, Exploratory Data Analysis (EDA), KPI 
-Development & Tracking, Data Storytelling 
-Tools: PowerBI, Python, SQL 
-● Modeled multiple relational tables in Power BI, including customer, seller, order, and payment entities, establishing 
-relationships to enable cross-dimensional analysis across 100K+ orders and 3K sellers. 
-● Authored DAX measures to calculate AOV by payment type, category GMV concentration, and delivery performance KPIs, 
-surfacing that credit card installments drive ~30% higher AOV vs single payments. 
-● Transformed and shaped raw e-commerce tables using Power Query before loading into the data model, handling column 
-type corrections, renaming, and structural cleanup. 
-● Designed drill-through filters and dynamic slicers enabling cross-department stakeholders to self-serve insights by region, 
-category, and time period. 
-● Identified peak demand periods and seasonal surges, translating findings into actionable North Star KPI recommendations 
-around delivery time, AOV, category GMV, and seller performance. 
-Public Safety Analytics 
-Skills: Data Modeling, Power Query, ETL Pipeline Development, Data Cleaning & Normalization, Data Warehousing, Data 
-Transformation, Dashboard & Visualization, Data Storytelling, Presentation 
-Tools: Power BI, Python , Talend, Snowflake, Microsoft PowerPoint 
-● Developed and implemented an end-to-end ETL pipeline using Python to extract, clean, and normalize raw Los Angeles 
-crime data from multiple sources. 
-● Authored extensive Python scripts for data cleaning, employing techniques such as handling missing values, normalizing 
-inconsistent string formats, and type casting to ensure high data quality for downstream analysis. 
-● Engineered data loading processes to Snowflake, managing the secure migration of processed datasets into the data 
-warehouse while maintaining schema integrity. 
-● Integrated Python-based ETL logic with Talend to assist in the automation of data workflows and support scalable data 
-processing. 
-● Built an interactive Power BI dashboard by preparing and structuring the underlying data to visualize complex crime trends 
-and geographic hotspots. 
-● Delivered findings via a structured executive PowerPoint presentation, translating complex crime trend data into clear visuals 
-and actionable recommendations for non-technical stakeholders. 
-ACHIEVEMENTS  
-● Recipient of the prestigious Punjab Educational Endowment Fund (PEEF) Merit Scholarship, awarded for exceptional 
-academic performance. 
-● Winner of Harvard University’s CS50 Puzzle Day, demonstrating superior logic, critical thinking, and algorithmic 
-problem-solving skills under time constraints. 
-● Advanced to Round 3, ranking among the top 0.01% of  5000+ global participants in Meta Hacker Cup, an algorithmic 
-coding competition on AI track. 
-● Secured a position in the top 49% of competitors in Pakistan at the Calico’25 Coding Competition. 
-SKILLS 
-Core Data Competencies: 
-SQL (Queries, Joins, CTEs, Subqueries) | Data Analysis & Visualization | Data Quality & Validation | ETL Pipelines | KPI 
-Development & Tracking | Business Intelligence | Statistical Analysis | Databases 
-Technical Tools & Languages: 
-Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) | SQL | R | HTML/CSS  
-Business Intelligence & Visualization: 
-Power BI |  MS Excel | Looker Studio tools | GA4 | Data Storytelling & Reporting | Powerpoint Presentation | Notion | Data 
-Warehousing 
-Cloud & Data Platforms: 
-AWS Redshift | Snowflake | Google Cloud Big Query 
-Development & Collaboration Tools: 
-Git/GitHub | Docker | Jupyter Notebook | VS Code | PyCharm | Google Colab | Vercel 
-Machine Learning & Advanced Analytics: 
-Supervised & Unsupervised Learning 
-Soft Skills: 
-Cross-functional Collaboration | Stakeholder Communication | Analytical & Critical Thinking | Problem-Solving | Attention to Detail | 
-Adaptability | Leadership & Mentorship | Active Listening | Clear Technical Communication 
-CERTIFICATES 
-● Measurement – Turning Concepts into Data, Johns Hopkins University  
-● Harnessing the power of Power BI, Microsoft   
-● Forward Leadership, McKinsey Forward  
-● Supervised Learning with scikit-learn, DataCamp  
-● Applied Analytics and Data for Decision Making, University at Buffalo  
-LANGUAGES 
-English Professional                                       
-Urdu Native  
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=MUHAMMAD+AHMAD;Data+Scientist+%7C+Behavioral+Analyst;I+notice+what+others+scroll+past.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+*I notice which chair a stranger picks in an empty café.*
+*Which word in a sentence makes someone stop scrolling.*
+*Which moment a conversation quietly shifts — and why.*
+
+**Most people call it overthinking.**
+**I call it the only thinking that ever felt natural.**
+
+</div>
+
+---
+
+## `> WHO I AM`
+
+People leave signals everywhere.
+
+A scroll that paused. A purchase that almost didn't happen. A feature nobody opens.
+
+Underneath all of it — stories about how people actually make decisions. That's what pulled me into data science. Not the models. Not the math. Not the tools. The stubborn belief that **human behavior, if you look long enough, starts to make a strange kind of sense.**
+
+I'm a recent graduate. Still building. Not pretending otherwise.
+
+My process starts *before* the dataset:
+
+```
+understand the business  →  understand the people  →  ask the right question
+```
+
+Get that wrong — nothing else matters.
+
+---
+
+## `> WHERE THAT DISCIPLINE CAME FROM`
+
+<details>
+<summary><b>🌐 Hackathons — LabLab / Devpost (June 2024 – Present)</b></summary>
+
+<br>
+
+Strangers across time zones. Ambiguity as the default. Shipping something real as the only goal.
+
+24–72 hour sprints don't reward people who need clarity handed to them. They reward people who can build it themselves — fast, collaboratively, under pressure.
+
+That's where I learned: **pressure reveals clarity.**
+
+</details>
+
+<details>
+<summary><b>🎓 Section Leader — Stanford University CIP (Mar – May 2025)</b></summary>
+
+<br>
+
+Teaching programming to undergrad CS students taught me one thing fast:
+
+> You don't truly understand something until you have to explain it to someone who doesn't.
+
+Led weekly sections, guided problem-solving, gave feedback on assignments, facilitated code reviews. Every session was a live test of whether I actually knew what I thought I knew.
+
+</details>
+
+<details>
+<summary><b>🏛️ B.Sc. Data Science — Government College University, Faisalabad (2021–2025)</b></summary>
+
+<br>
+
+**Concentrations:** Data Science & Analytics
+
+**Relevant Coursework:** Machine Learning · Statistical Inference · Data Visualization · AI · Databases · Data Warehousing & BI · SQL Analytics · Data Structures
+
+</details>
+
+---
+
+## `> WHAT I BUILD`
+
+### 📦 Olist Retail & E-Commerce Growth Analytics
+`Power BI` `Python` `SQL` `DAX` `Power Query`
+
+Modeled 100K+ orders across multiple relational entities (customers, sellers, orders, payments). Authored DAX measures that surfaced a key insight: **credit card installments drive ~30% higher AOV vs single payments.** Built drill-through filters so non-technical stakeholders could self-serve insights by region, category, and time.
+
+---
+
+### 🔐 Public Safety Analytics — LA Crime Data
+`Python` `Talend` `Snowflake` `Power BI` `PowerPoint`
+
+Built an end-to-end ETL pipeline: raw LA crime data → Python cleaning → Snowflake warehouse → interactive Power BI dashboard → executive presentation. Translated complex crime trends into clear, actionable recommendations for non-technical stakeholders.
+
+---
+
+## `> STACK`
+
+**Core**
+
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-0a0a0a?style=for-the-badge&logo=r&logoColor=white)
+
+**BI & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-0a0a0a?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/Tableau-0a0a0a?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-0a0a0a?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![Looker](https://img.shields.io/badge/Looker_Studio-0a0a0a?style=for-the-badge&logo=looker&logoColor=white)
+
+**Cloud & Data Platforms**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-0a0a0a?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
+![AWS](https://img.shields.io/badge/AWS_Redshift-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![BigQuery](https://img.shields.io/badge/BigQuery-0a0a0a?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+
+**Libraries**
+
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0a?style=for-the-badge&logo=python&logoColor=white)
+
+**Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0a?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+---
+
+## `> ACHIEVEMENTS`
+
+| # | What |
+|---|------|
+| 🏆 | **Harvard CS50 Puzzle Day** — Winner. Logic, critical thinking, algorithmic problem-solving under time constraints. |
+| 🌍 | **Meta Hacker Cup** — Advanced to Round 3. Top **0.01%** of 5,000+ global participants, AI track. |
+| 🇵🇰 | **Calico'25 Coding Competition** — Top 49% nationally in Pakistan. |
+| 🎓 | **PEEF Merit Scholarship** — Punjab Educational Endowment Fund, awarded for exceptional academic performance. |
+
+---
+
+## `> CERTIFICATIONS`
+
+- 📐 **Measurement – Turning Concepts into Data** · Johns Hopkins University
+- 📊 **Harnessing the Power of Power BI** · Microsoft
+- 🧠 **Supervised Learning with scikit-learn** · DataCamp
+- 📈 **Applied Analytics and Data for Decision Making** · University at Buffalo
+- 🚀 **Forward Leadership** · McKinsey Forward
+
+---
+
+## `> GITHUB STATS`
+
+<div align="center">
+
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117)
+
+</div>
+
+---
+
+## `> WHAT I'M DRAWN TO RIGHT NOW`
+
+> *Where behavioral patterns and AI start to overlap.*
+> *How products can stop making educated guesses about people — and start actually reflecting who they are.*
+
+Still early in that journey. But direction matters more than distance.
+
+---
+
+## `> LANGUAGES`
+
+🇬🇧 English — Professional &nbsp;&nbsp;|&nbsp;&nbsp; 🇵🇰 Urdu — Native
+
+---
+
+## `> FIND ME`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_SITE.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The goal isn't to collect more data.*
+*It's to ask a question worth answering."*
+
+</div>
