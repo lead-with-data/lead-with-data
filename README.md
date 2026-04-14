@@ -150,19 +150,19 @@ Git · GitHub · Jupyter · VS Code · Linux
 
 Measurement – Turning Concepts into Data · *Johns Hopkins University*
 
-<div style="width: 60px; height: 2px; background-color: #4493f8; margin-top: 6px; margin-bottom: 16px;"></div>
+<sub>────────────</sub>
 
 Harnessing the Power of Power BI · *Microsoft*
 
-<div style="width: 60px; height: 2px; background-color: #4493f8; margin-top: 6px; margin-bottom: 16px;"></div>
+<sub>────────────</sub>
 
 Supervised Learning with scikit-learn · *DataCamp*
 
-<div style="width: 60px; height: 2px; background-color: #4493f8; margin-top: 6px; margin-bottom: 16px;"></div>
+<sub>────────────</sub>
 
 Applied Analytics and Data for Decision Making · *University at Buffalo*
 
-<div style="width: 60px; height: 2px; background-color: #4493f8; margin-top: 6px; margin-bottom: 16px;"></div>
+<sub>────────────</sub>
 
 Forward Leadership Program · *McKinsey Forward*
 
