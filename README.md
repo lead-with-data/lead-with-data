@@ -1,4 +1,4 @@
-<div align="center">
+<img width="2056" height="1530" alt="olist" src="https://github.com/user-attachments/assets/4c9384af-dbca-41b2-a80a-134240fa18a6" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&animation=fadeIn" width="100%"/>
 
@@ -39,8 +39,10 @@ My process starts before the dataset. Understand the business. Understand the pe
 100K+ orders across 3K sellers, modeled from scratch across multiple relational entities. The finding that mattered: credit card installments drive ~30% higher average order value than single payments. That didn't come from the data — it came from asking why people pay in installments at all.
 
 [View project →](https://github.com/YOUR_USERNAME/olist-analytics)
+<img width="2056" height="1530" alt="olist" src="https://github.com/user-attachments/assets/0275b91f-8a69-432c-a1a8-9f9e5c4e0be0" />
 
-<img src="https://placehold.co/860x400/0d1117/3d444d?text=Dashboard+Preview+—+Replace+with+screenshot" width="100%" style="border-radius:6px; margin-top:8px;"/>
+
+
 
 <br/><br/>
 
@@ -51,20 +53,22 @@ My process starts before the dataset. Understand the business. Understand the pe
 End-to-end ETL pipeline built from raw LA crime records — cleaned, warehoused, visualized, and delivered to non-technical stakeholders as actionable recommendations. The pipeline was routine. The question that drove it wasn't: *where does crime cluster, and why does that cluster move?*
 
 [View project →](https://github.com/YOUR_USERNAME/la-crime-analytics)
+<img width="1953" height="1453" alt="Gemini_Generated_Image_wko1rawko1rawko1" src="https://github.com/user-attachments/assets/fb8a006c-97f0-45d4-bea6-208e76d15f94" />
 
-<img src="https://placehold.co/860x400/0d1117/3d444d?text=Dashboard+Preview+—+Replace+with+screenshot" width="100%" style="border-radius:6px; margin-top:8px;"/>
+
 
 <br/><br/>
 
 
-**[Project Title]**
+**[Marketing Analytics]**
 `Tool · Tool · Tool`
 
 Short description of the problem and what you built. One sentence on the result or finding that made it worth doing.
 
 [View project →](https://github.com/YOUR_USERNAME)
+<img width="2400" height="1784" alt="Gemini_Generated_Image_5nc8ia5nc8ia5nc8" src="https://github.com/user-attachments/assets/36556df9-caa3-45d1-a82e-57a44ea90179" />
 
-<img src="https://placehold.co/860x400/0d1117/3d444d?text=Preview+—+Replace+with+screenshot" width="100%" style="border-radius:6px; margin-top:8px;"/>
+
 
 <br/>
 
@@ -126,23 +130,25 @@ Punjab Educational Endowment Fund — exceptional academic performance.
 
 <br/>
 
-**Languages**
+- **Languages**
 Python · SQL · R
 
-**Analysis & Modeling**
+- **Analysis & Modeling**
 Pandas · NumPy · Scikit-learn · TensorFlow
 
-**BI & Visualization**
+- **BI & Visualization**
 Power BI · Tableau · Looker Studio · Excel
 
-**Cloud & Infrastructure**
+- **Cloud & Infrastructure**
 Snowflake · AWS Redshift · BigQuery · Docker · Talend
 
-**Dev**
+- **Dev**
 Git · GitHub · Jupyter · VS Code · Linux
 
 <br/>
+
 ## Certifications
+
 <br/>
 
 - Measurement – Turning Concepts into Data · *Johns Hopkins University*
