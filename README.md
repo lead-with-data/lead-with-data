@@ -153,10 +153,10 @@ Harnessing the Power of Power BI · *Microsoft*
 
 Supervised Learning with scikit-learn · *DataCamp*
 
-<hr></hr>
+<hr class="thin">
 Applied Analytics and Data for Decision Making · *University at Buffalo*
 
-
+<hr style="border: none; height: 1px; background: #30363d;">
 Forward Leadership Program · *McKinsey Forward*
 
 
