@@ -16,7 +16,7 @@
 
 <br/>
 
----
+
 
 People leave signals everywhere.
 
@@ -28,7 +28,6 @@ My process starts before the dataset. Understand the business. Understand the pe
 
 <br/>
 
----
 
 ## Featured
 
@@ -45,7 +44,6 @@ My process starts before the dataset. Understand the business. Understand the pe
 
 <br/><br/>
 
----
 
 **Public Safety Analytics · LA Crime Data**
 `Python · Snowflake · Talend · Power BI`
@@ -58,7 +56,6 @@ End-to-end ETL pipeline built from raw LA crime records — cleaned, warehoused,
 
 <br/><br/>
 
----
 
 **[Project Title]**
 `Tool · Tool · Tool`
@@ -71,7 +68,7 @@ Short description of the problem and what you built. One sentence on the result 
 
 <br/>
 
----
+
 
 ## Experience
 
@@ -84,7 +81,6 @@ Led weekly Python sections for a global cohort of beginners. Designed exercises,
 
 <br/>
 
----
 
 **Hackathon Competitor** · LabLab.ai / Devpost
 `2024 – Present · Distributed`
@@ -93,7 +89,6 @@ Strangers across time zones. 24–72 hour sprints. Ambiguity as the default. Shi
 
 <br/>
 
----
 
 **[Role Title]** · [Organization]
 `Month Year – Month Year · Location`
@@ -102,7 +97,6 @@ What you did. What you solved. What this place taught you that nowhere else coul
 
 <br/>
 
----
 
 ## Competitions
 
@@ -111,23 +105,22 @@ What you did. What you solved. What this place taught you that nowhere else coul
 **Harvard CS50 Puzzle Day** · Winner
 Logic, critical thinking, and algorithmic problem-solving under time constraints.
 
----
+
 
 **Meta Hacker Cup** · Round 3 · Top 0.01%
 Out of 5,000+ global participants — AI track.
 
----
+
 
 **Calico'25** · Top 49% Nationally · Pakistan
 
----
+
 
 **PEEF Merit Scholarship** · Awarded
 Punjab Educational Endowment Fund — exceptional academic performance.
 
 <br/>
 
----
 
 ## Stack
 
@@ -150,7 +143,6 @@ Git · GitHub · Jupyter · VS Code · Linux
 
 <br/>
 
----
 
 ## Certifications
 
@@ -158,25 +150,24 @@ Git · GitHub · Jupyter · VS Code · Linux
 
 Measurement – Turning Concepts into Data · *Johns Hopkins University*
 
----
+<br/><br/>
 
 Harnessing the Power of Power BI · *Microsoft*
 
----
+<br/><br/>
 
 Supervised Learning with scikit-learn · *DataCamp*
 
----
+<br/><br/>
 
 Applied Analytics and Data for Decision Making · *University at Buffalo*
 
----
+<br/><br/>
 
 Forward Leadership Program · *McKinsey Forward*
 
 <br/>
 
----
 
 ## Skills
 
@@ -188,7 +179,7 @@ Teaching without losing the room. Async collaboration across distributed teams. 
 
 <br/>
 
----
+
 
 ## Languages
 
@@ -196,13 +187,12 @@ Teaching without losing the room. Async collaboration across distributed teams. 
 
 English — Professional working proficiency
 
----
+
 
 Urdu — Native
 
 <br/>
 
----
 
 ## Where this is heading
 
@@ -218,7 +208,7 @@ I don't have the answers yet. I have the questions. I've learned that's the hard
 
 <br/><br/>
 
----
+
 
 <div align="center">
 
