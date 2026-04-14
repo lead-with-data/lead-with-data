@@ -1,4 +1,4 @@
-<img width="2056" height="1530" alt="olist" src="https://github.com/user-attachments/assets/4c9384af-dbca-41b2-a80a-134240fa18a6" /><div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&animation=fadeIn" width="100%"/>
 
