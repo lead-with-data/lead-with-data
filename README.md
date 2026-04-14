@@ -1,5 +1,3 @@
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <h1>Muhammad Ahmad</h1>
