@@ -149,24 +149,15 @@ Git · GitHub · Jupyter · VS Code · Linux
 <br/>
 
 Measurement – Turning Concepts into Data · *Johns Hopkins University*
-
-<br/>
-
+..........................................................................................................
 Harnessing the Power of Power BI · *Microsoft*
-
-<br/>
-
+..........................................................................................................
 Supervised Learning with scikit-learn · *DataCamp*
-
-<br/>
-
+..........................................................................................................
 Applied Analytics and Data for Decision Making · *University at Buffalo*
-
-<br/>
-
+..........................................................................................................
 Forward Leadership Program · *McKinsey Forward*
-
-<br/>
+..........................................................................................................
 
 
 ## Skills
