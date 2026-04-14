@@ -142,22 +142,24 @@ Snowflake · AWS Redshift · BigQuery · Docker · Talend
 Git · GitHub · Jupyter · VS Code · Linux
 
 <br/>
-
-
 ## Certifications
-
 <br/>
 
 Measurement – Turning Concepts into Data · *Johns Hopkins University*
-..........................................................................................................
+
+<br/>..<br/>
 Harnessing the Power of Power BI · *Microsoft*
-..........................................................................................................
+
+
 Supervised Learning with scikit-learn · *DataCamp*
-..........................................................................................................
+
+
 Applied Analytics and Data for Decision Making · *University at Buffalo*
-..........................................................................................................
+
+
 Forward Leadership Program · *McKinsey Forward*
-..........................................................................................................
+
+
 
 
 ## Skills
